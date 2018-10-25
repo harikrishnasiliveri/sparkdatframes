@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a27a96d-63e9-442d-94e4-82d9ee253160" name="Default Changelist" comment="" />
+    <list default="true" id="0a27a96d-63e9-442d-94e4-82d9ee253160" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/demodel.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,13 +26,13 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="properties" value="2" />
-          <entry key="py" value="4" />
+          <entry key="py" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Properties" value="2" />
-          <entry key="Python" value="4" />
+          <entry key="Python" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -58,13 +60,18 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/venv/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
               <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demodel.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -76,6 +83,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -83,6 +93,7 @@
         <option value="$PROJECT_DIR$/dataframes.py" />
         <option value="$PROJECT_DIR$/venv/TopNDailyProducts.py" />
         <option value="$PROJECT_DIR$/venv/resources/application.properties" />
+        <option value="$PROJECT_DIR$/demodel.py" />
       </list>
     </option>
   </component>
@@ -91,6 +102,7 @@
     <option name="width" value="1750" />
     <option name="height" value="970" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -103,6 +115,16 @@
             <path>
               <item name="gettingstarted" type="b2602c69:ProjectViewProjectNode" />
               <item name="gettingstarted" type="47feb1d3:ProjectViewModuleNode" />
+            </path>
+            <path>
+              <item name="gettingstarted" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gettingstarted" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="gettingstarted" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gettingstarted" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gettingstarted" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -226,6 +248,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2894911" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -277,6 +300,9 @@
           <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demodel.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
